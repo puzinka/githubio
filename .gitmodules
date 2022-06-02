@@ -1,0 +1,3 @@
+[submodule "test-task"]
+	path = test-task
+	url = https://github.com/puzinka/test-task.git
